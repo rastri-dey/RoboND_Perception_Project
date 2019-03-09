@@ -52,7 +52,7 @@ Once Gazebo is up and running, make sure to see following in the gazebo world:
 
 The clustering and segmentation results of Point Cloud Data for table top scenario looks like:
 
-![Clustering and  Segmentation for Table top scenario](Results/Clustering and Segmentation of PCD.PNG) 
+![Clustering and  Segmentation for Table top scenario](Results/Clustering_Segmentation_PCD.PNG) 
 
 The Normalized Confusion Matrix for Table top scenario:
 
