@@ -56,11 +56,11 @@ The clustering and segmentation results of Point Cloud Data for table top scenar
 
 The Normalized Confusion Matrix for Table top scenario:
 
-![Normalized Confusion Matrix of Table top scenario](Results/NormalizedConfusionMatrix _TableTopScenario.PNG) 
+![Normalized Confusion Matrix of Table top scenario](Results/NormalizedConfusionMatrix_TableTopScenario.PNG) 
 
 The accuracy obtained for object label in Table top Scenario is 100%. This cn be verified with the following diagram:
 
-![Output of Object Label for Table top scenario](Results/Output_Object Label_100Percent_Accuracy.PNG) 
+![Output of Object Label for Table top scenario](Results/Output_Object_Label_100Percent_Accuracy.PNG) 
 
 pick_list1.yaml includes: [object_list:- name: biscuits, group: green, - name: soap, group: green, - name: soap2, group: red]
 The accuracy obtained for object labels from pick_list_1.yaml is 100%.
